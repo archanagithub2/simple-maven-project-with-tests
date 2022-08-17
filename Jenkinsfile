@@ -5,7 +5,7 @@ pipeline {
         // Install the Maven version configured as "M3" and add it to the path.
         maven "mvn"
         jdk "jdk 1.8.0"
-        git "git 2.25.1"
+        
     
     }
 
